@@ -1,0 +1,1211 @@
+{
+  "generated_by": "source/build.py",
+  "checked": "2026-10-04",
+  "assets": [
+    {
+      "path": "logo/hulbu-mark.svg",
+      "kind": "logo",
+      "variant": "",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/hulbu-mark-32.svg",
+      "kind": "logo",
+      "variant": "",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-32-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-32-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-32-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/hulbu-mark-16.svg",
+      "kind": "logo",
+      "variant": "",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-16-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-16-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-16-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/hulbu-mark-coral.svg",
+      "kind": "logo",
+      "variant": "-coral",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-coral",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-coral",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-coral",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/hulbu-mark-coral-32.svg",
+      "kind": "logo",
+      "variant": "-coral",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-32-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-coral",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-32-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-coral",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-32-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-coral",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/hulbu-mark-coral-16.svg",
+      "kind": "logo",
+      "variant": "-coral",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-16-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-coral",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-16-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-coral",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-coral-16-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-coral",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/hulbu-mark-ink.svg",
+      "kind": "logo",
+      "variant": "-ink",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-ink",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-ink",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-ink",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/hulbu-mark-ink-32.svg",
+      "kind": "logo",
+      "variant": "-ink",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-32-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-ink",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-32-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-ink",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-32-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-ink",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/hulbu-mark-ink-16.svg",
+      "kind": "logo",
+      "variant": "-ink",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-16-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-ink",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-16-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-ink",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-ink-16-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-ink",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/hulbu-mark-white.svg",
+      "kind": "logo",
+      "variant": "-white",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-white",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-white",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-white",
+      "cut": "standard",
+      "gap": 22
+    },
+    {
+      "path": "logo/hulbu-mark-white-32.svg",
+      "kind": "logo",
+      "variant": "-white",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-32-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-white",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-32-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-white",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-32-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-white",
+      "cut": "32",
+      "gap": 32
+    },
+    {
+      "path": "logo/hulbu-mark-white-16.svg",
+      "kind": "logo",
+      "variant": "-white",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-16-512.png",
+      "kind": "logo",
+      "width": 512,
+      "height": 301,
+      "variant": "-white",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-16-1024.png",
+      "kind": "logo",
+      "width": 1024,
+      "height": 602,
+      "variant": "-white",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "logo/png/hulbu-mark-white-16-2048.png",
+      "kind": "logo",
+      "width": 2048,
+      "height": 1205,
+      "variant": "-white",
+      "cut": "16",
+      "gap": 44
+    },
+    {
+      "path": "favicon/favicon.svg",
+      "kind": "favicon"
+    },
+    {
+      "path": "favicon/favicon-auto.svg",
+      "kind": "favicon"
+    },
+    {
+      "path": "favicon/favicon-16.png",
+      "kind": "favicon",
+      "width": 16,
+      "height": 16,
+      "gap": 44
+    },
+    {
+      "path": "favicon/favicon-32.png",
+      "kind": "favicon",
+      "width": 32,
+      "height": 32,
+      "gap": 32
+    },
+    {
+      "path": "favicon/favicon-48.png",
+      "kind": "favicon",
+      "width": 48,
+      "height": 48,
+      "gap": 22
+    },
+    {
+      "path": "favicon/favicon.ico",
+      "kind": "favicon"
+    },
+    {
+      "path": "favicon/apple-touch-icon.png",
+      "kind": "favicon",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "path": "favicon/android-chrome-192.png",
+      "kind": "favicon",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "favicon/android-chrome-512.png",
+      "kind": "favicon",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "favicon/maskable-512.png",
+      "kind": "favicon",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "favicon/site.webmanifest",
+      "kind": "integration"
+    },
+    {
+      "path": "favicon/head.html",
+      "kind": "integration"
+    },
+    {
+      "path": "social/profile/color-white/master-1080.png",
+      "kind": "profile",
+      "width": 1080,
+      "height": 1080,
+      "variant": "color-white",
+      "platform": "master"
+    },
+    {
+      "path": "social/profile/color-white/instagram-320.png",
+      "kind": "profile",
+      "width": 320,
+      "height": 320,
+      "variant": "color-white",
+      "platform": "instagram"
+    },
+    {
+      "path": "social/profile/color-white/linkedin-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "color-white",
+      "platform": "linkedin"
+    },
+    {
+      "path": "social/profile/color-white/youtube-800.png",
+      "kind": "profile",
+      "width": 800,
+      "height": 800,
+      "variant": "color-white",
+      "platform": "youtube"
+    },
+    {
+      "path": "social/profile/color-white/x-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "color-white",
+      "platform": "x"
+    },
+    {
+      "path": "social/profile/color-white/facebook-720.png",
+      "kind": "profile",
+      "width": 720,
+      "height": 720,
+      "variant": "color-white",
+      "platform": "facebook"
+    },
+    {
+      "path": "social/profile/color-white/tiktok-200.png",
+      "kind": "profile",
+      "width": 200,
+      "height": 200,
+      "variant": "color-white",
+      "platform": "tiktok"
+    },
+    {
+      "path": "social/profile/color-cloud/master-1080.png",
+      "kind": "profile",
+      "width": 1080,
+      "height": 1080,
+      "variant": "color-cloud",
+      "platform": "master"
+    },
+    {
+      "path": "social/profile/color-cloud/instagram-320.png",
+      "kind": "profile",
+      "width": 320,
+      "height": 320,
+      "variant": "color-cloud",
+      "platform": "instagram"
+    },
+    {
+      "path": "social/profile/color-cloud/linkedin-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "color-cloud",
+      "platform": "linkedin"
+    },
+    {
+      "path": "social/profile/color-cloud/youtube-800.png",
+      "kind": "profile",
+      "width": 800,
+      "height": 800,
+      "variant": "color-cloud",
+      "platform": "youtube"
+    },
+    {
+      "path": "social/profile/color-cloud/x-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "color-cloud",
+      "platform": "x"
+    },
+    {
+      "path": "social/profile/color-cloud/facebook-720.png",
+      "kind": "profile",
+      "width": 720,
+      "height": 720,
+      "variant": "color-cloud",
+      "platform": "facebook"
+    },
+    {
+      "path": "social/profile/color-cloud/tiktok-200.png",
+      "kind": "profile",
+      "width": 200,
+      "height": 200,
+      "variant": "color-cloud",
+      "platform": "tiktok"
+    },
+    {
+      "path": "social/profile/white-coral/master-1080.png",
+      "kind": "profile",
+      "width": 1080,
+      "height": 1080,
+      "variant": "white-coral",
+      "platform": "master"
+    },
+    {
+      "path": "social/profile/white-coral/instagram-320.png",
+      "kind": "profile",
+      "width": 320,
+      "height": 320,
+      "variant": "white-coral",
+      "platform": "instagram"
+    },
+    {
+      "path": "social/profile/white-coral/linkedin-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "white-coral",
+      "platform": "linkedin"
+    },
+    {
+      "path": "social/profile/white-coral/youtube-800.png",
+      "kind": "profile",
+      "width": 800,
+      "height": 800,
+      "variant": "white-coral",
+      "platform": "youtube"
+    },
+    {
+      "path": "social/profile/white-coral/x-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "white-coral",
+      "platform": "x"
+    },
+    {
+      "path": "social/profile/white-coral/facebook-720.png",
+      "kind": "profile",
+      "width": 720,
+      "height": 720,
+      "variant": "white-coral",
+      "platform": "facebook"
+    },
+    {
+      "path": "social/profile/white-coral/tiktok-200.png",
+      "kind": "profile",
+      "width": 200,
+      "height": 200,
+      "variant": "white-coral",
+      "platform": "tiktok"
+    },
+    {
+      "path": "social/profile/white-ink/master-1080.png",
+      "kind": "profile",
+      "width": 1080,
+      "height": 1080,
+      "variant": "white-ink",
+      "platform": "master"
+    },
+    {
+      "path": "social/profile/white-ink/instagram-320.png",
+      "kind": "profile",
+      "width": 320,
+      "height": 320,
+      "variant": "white-ink",
+      "platform": "instagram"
+    },
+    {
+      "path": "social/profile/white-ink/linkedin-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "white-ink",
+      "platform": "linkedin"
+    },
+    {
+      "path": "social/profile/white-ink/youtube-800.png",
+      "kind": "profile",
+      "width": 800,
+      "height": 800,
+      "variant": "white-ink",
+      "platform": "youtube"
+    },
+    {
+      "path": "social/profile/white-ink/x-400.png",
+      "kind": "profile",
+      "width": 400,
+      "height": 400,
+      "variant": "white-ink",
+      "platform": "x"
+    },
+    {
+      "path": "social/profile/white-ink/facebook-720.png",
+      "kind": "profile",
+      "width": 720,
+      "height": 720,
+      "variant": "white-ink",
+      "platform": "facebook"
+    },
+    {
+      "path": "social/profile/white-ink/tiktok-200.png",
+      "kind": "profile",
+      "width": 200,
+      "height": 200,
+      "variant": "white-ink",
+      "platform": "tiktok"
+    },
+    {
+      "path": "social/covers/og-default-background.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-default",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/og-default.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-default",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/og-orbit-background.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-orbit",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/og-orbit.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-orbit",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/og-confetti-background.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-confetti",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/og-confetti.png",
+      "kind": "cover",
+      "width": 1200,
+      "height": 630,
+      "cover": "og-confetti",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/linkedin-company-background.png",
+      "kind": "cover",
+      "width": 1128,
+      "height": 191,
+      "cover": "linkedin-company",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/linkedin-company-with-logo.png",
+      "kind": "cover",
+      "width": 1128,
+      "height": 191,
+      "cover": "linkedin-company",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/linkedin-company-current-background.png",
+      "kind": "cover",
+      "width": 1512,
+      "height": 256,
+      "cover": "linkedin-company-current",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/linkedin-company-current-with-logo.png",
+      "kind": "cover",
+      "width": 1512,
+      "height": 256,
+      "cover": "linkedin-company-current",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/linkedin-personal-background.png",
+      "kind": "cover",
+      "width": 1584,
+      "height": 396,
+      "cover": "linkedin-personal",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/linkedin-personal-with-logo.png",
+      "kind": "cover",
+      "width": 1584,
+      "height": 396,
+      "cover": "linkedin-personal",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/youtube-background.png",
+      "kind": "cover",
+      "width": 2560,
+      "height": 1440,
+      "cover": "youtube",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/youtube-with-logo.png",
+      "kind": "cover",
+      "width": 2560,
+      "height": 1440,
+      "cover": "youtube",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/x-background.png",
+      "kind": "cover",
+      "width": 1500,
+      "height": 500,
+      "cover": "x",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/x-with-logo.png",
+      "kind": "cover",
+      "width": 1500,
+      "height": 500,
+      "cover": "x",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/facebook-background.png",
+      "kind": "cover",
+      "width": 1640,
+      "height": 624,
+      "cover": "facebook",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/facebook-with-logo.png",
+      "kind": "cover",
+      "width": 1640,
+      "height": 624,
+      "cover": "facebook",
+      "with_logo": true
+    },
+    {
+      "path": "social/covers/facebook-recommended-background.png",
+      "kind": "cover",
+      "width": 851,
+      "height": 315,
+      "cover": "facebook-recommended",
+      "with_logo": false
+    },
+    {
+      "path": "social/covers/facebook-recommended-with-logo.png",
+      "kind": "cover",
+      "width": 851,
+      "height": 315,
+      "cover": "facebook-recommended",
+      "with_logo": true
+    },
+    {
+      "path": "colors/tokens.json",
+      "kind": "color-data"
+    },
+    {
+      "path": "colors/tokens.css",
+      "kind": "color-data"
+    },
+    {
+      "path": "colors/tokens.ts",
+      "kind": "color-data"
+    },
+    {
+      "path": "colors/swatches.png",
+      "kind": "color-data",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "path": "guidelines/clear-space.png",
+      "kind": "guideline",
+      "width": 1200,
+      "height": 650
+    },
+    {
+      "path": "guidelines/do-color.png",
+      "kind": "guideline",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "path": "guidelines/do-white.png",
+      "kind": "guideline",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "path": "guidelines/dont-stretch.png",
+      "kind": "guideline",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "path": "guidelines/dont-fill-gaps.png",
+      "kind": "guideline",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "path": "guidelines/dont-frame.png",
+      "kind": "guideline",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "path": "guidelines/favicon-pixels.png",
+      "kind": "guideline",
+      "width": 1100,
+      "height": 560
+    },
+    {
+      "path": "README.md",
+      "kind": "documentation"
+    },
+    {
+      "path": "LICENSE",
+      "kind": "documentation"
+    },
+    {
+      "path": "PLATFORM-NOTES.md",
+      "kind": "documentation"
+    },
+    {
+      "path": "preview.html",
+      "kind": "documentation"
+    },
+    {
+      "path": "review/contact-01.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-02.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-03.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-04.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-05.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-06.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-07.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-08.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    },
+    {
+      "path": "review/contact-09.png",
+      "kind": "review",
+      "width": 1440,
+      "height": 1420
+    }
+  ],
+  "covers": [
+    {
+      "id": "og-default",
+      "label": "Open Graph / Sunny",
+      "w": 1200,
+      "h": 630,
+      "style": 0,
+      "logo": [
+        600,
+        315,
+        306
+      ],
+      "safe": [
+        100,
+        80,
+        1000,
+        470
+      ]
+    },
+    {
+      "id": "og-orbit",
+      "label": "Open Graph / Orbit",
+      "w": 1200,
+      "h": 630,
+      "style": 1,
+      "logo": [
+        600,
+        315,
+        306
+      ],
+      "safe": [
+        100,
+        80,
+        1000,
+        470
+      ]
+    },
+    {
+      "id": "og-confetti",
+      "label": "Open Graph / Confetti",
+      "w": 1200,
+      "h": 630,
+      "style": 2,
+      "logo": [
+        600,
+        315,
+        306
+      ],
+      "safe": [
+        100,
+        80,
+        1000,
+        470
+      ]
+    },
+    {
+      "id": "linkedin-company",
+      "label": "LinkedIn company / brief size",
+      "w": 1128,
+      "h": 191,
+      "style": 0,
+      "logo": [
+        690,
+        95.5,
+        170
+      ],
+      "safe": [
+        360,
+        25,
+        550,
+        140
+      ],
+      "avatar": [
+        0,
+        85,
+        290,
+        106
+      ]
+    },
+    {
+      "id": "linkedin-company-current",
+      "label": "LinkedIn company / current upload",
+      "w": 1512,
+      "h": 256,
+      "style": 0,
+      "logo": [
+        925,
+        128,
+        228
+      ],
+      "safe": [
+        483,
+        33,
+        738,
+        189
+      ],
+      "avatar": [
+        0,
+        114,
+        389,
+        142
+      ]
+    },
+    {
+      "id": "linkedin-personal",
+      "label": "LinkedIn personal",
+      "w": 1584,
+      "h": 396,
+      "style": 1,
+      "logo": [
+        970,
+        188,
+        272
+      ],
+      "safe": [
+        530,
+        55,
+        740,
+        280
+      ],
+      "avatar": [
+        0,
+        150,
+        480,
+        246
+      ]
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube channel",
+      "w": 2560,
+      "h": 1440,
+      "style": 2,
+      "logo": [
+        1280,
+        720,
+        408
+      ],
+      "safe": [
+        507,
+        508.5,
+        1546,
+        423
+      ]
+    },
+    {
+      "id": "x",
+      "label": "X header",
+      "w": 1500,
+      "h": 500,
+      "style": 0,
+      "logo": [
+        915,
+        240,
+        306
+      ],
+      "safe": [
+        440,
+        80,
+        800,
+        330
+      ],
+      "avatar": [
+        0,
+        260,
+        410,
+        240
+      ]
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook / brief size",
+      "w": 1640,
+      "h": 624,
+      "style": 1,
+      "logo": [
+        940,
+        255,
+        306
+      ],
+      "safe": [
+        410,
+        80,
+        820,
+        370
+      ],
+      "avatar": [
+        0,
+        370,
+        440,
+        254
+      ]
+    },
+    {
+      "id": "facebook-recommended",
+      "label": "Facebook / recommended upload",
+      "w": 851,
+      "h": 315,
+      "style": 1,
+      "logo": [
+        488,
+        129,
+        153
+      ],
+      "safe": [
+        212,
+        40,
+        426,
+        186
+      ],
+      "avatar": [
+        0,
+        187,
+        228,
+        128
+      ]
+    }
+  ]
+}

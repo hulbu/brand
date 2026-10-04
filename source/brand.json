@@ -1,0 +1,14 @@
+{
+  "name": "Hulbu",
+  "palette": {
+    "primary": {"name": "Coral", "hex": "#FF6B6B"},
+    "yellow": {"name": "Sunny yellow", "hex": "#FFE066"},
+    "teal": {"name": "Teal", "hex": "#4ECDC4"},
+    "ink": {"name": "Ink", "hex": "#2E2C33"},
+    "white": {"name": "White", "hex": "#FFFFFF"},
+    "canvas": {"name": "Cloud Dancer", "hex": "#F4F0EC"}
+  },
+  "geometry": {"radius": 150, "centers": [435, 540, 645], "y": 540, "gaps": {"standard": 22, "32": 32, "16": 44}},
+  "profiles": {"master": 1080, "instagram": 320, "linkedin": 400, "youtube": 800, "x": 400, "facebook": 720, "tiktok": 200},
+  "checked": "2026-10-04"
+}

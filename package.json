@@ -1,0 +1,12 @@
+{
+  "name": "hulbu-brand",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The reproducible Hulbu brand kit",
+  "scripts": {
+    "build": "python3 source/build.py",
+    "check": "python3 source/validate.py",
+    "check:browser": "node source/check-browser.mjs"
+  },
+  "devDependencies": {"playwright": "1.58.2"}
+}
